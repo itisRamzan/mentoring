@@ -17,6 +17,8 @@ Welcome to the Mentoring project! This project aims to facilitate mentoring rela
 
 ## Screenshots/Video
 
+[Watch The Video](https://drive.google.com/file/d/1ySAbJHxIhneWFWgZKgw0VU4JjK5R0DTQ/view?usp=drive_link)
+
 ## Getting Started
 ### Prerequities
 - **Node.js:** Make sure you have Node.js installed on your system. You can download it from the official website: [Node.js](https://nodejs.org/)
