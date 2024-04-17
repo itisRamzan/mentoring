@@ -28,7 +28,7 @@ Welcome to the Mentoring project! This project aims to facilitate mentoring rela
 
 #### Clone the repository
 ```bash
-  git clone https://github.com/Kamran-imaz/mentoring.git
+  git clone https://github.com/itisRamzan/mentoring.git
 ```
 
 #### Install project with npm
